@@ -5,6 +5,6 @@ $(document).ready(function() {
     const food = $("#food").val();
     const dog = $("input:radio[name=dog]:checked").val();
     const dob = $("#born").val();
-    const favoriteColor = $("#color").val();
+    const color = $("#color").val();
   });
 });
